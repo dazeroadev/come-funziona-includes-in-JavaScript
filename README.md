@@ -7,16 +7,16 @@ Con "DA ZERO A DEV" spero di aiutare chi si approccia al mondo dello sviluppo pe
 
 🎥 Qui il video su YouTube per capire il codice di questo repository: [qui](https:/www.youtube.com/@dazeroadev)
 
-👩🏼‍💻Per iscriverti al canale: [link](https://www.youtube.com/@dazeroadev?sub_confirmation=1)
+👩🏼‍💻 Per iscriverti al canale: [link](https://www.youtube.com/@dazeroadev?sub_confirmation=1)
 
 ------
 
-[🔗 Tutti i miei link](https://www.dazeroadev.com/link.html)
+🔗 Tutti i miei link [qui](https://www.dazeroadev.com/link.html)
 
 ------
 
-[🌎 Qui trovi i miei contatti](https://www.dazeroadev.com/link.html)
+🌎 Qui trovi i miei contatti: [here](https://www.dazeroadev.com/link.html)
 
-[💻 I tools che uso per programmare](https://www.dazeroadev.com/link.html?tag=programs)
+💻 I tools che uso per programmare: [tools](https://www.dazeroadev.com/link.html?tag=programs)
 
-[🧩 I tools low-code che uso più spesso](https://www.dazeroadev.com/link.html?tag=low)
+🧩 I tools low-code che uso più spesso: [eccoli](https://www.dazeroadev.com/link.html?tag=low)
